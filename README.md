@@ -46,12 +46,12 @@
 
 
 ## 💻 Programming Projects
-- [Nour Sayed Portfolio](https://github.com/Abdallah-2006/Nour-Sayed-Portfolio)
+- [Graphic Designer Portfolio](https://github.com/Abdallah-2006/Nour-Sayed-Portfolio)
 - [E-Zag](https://github.com/Abdallah-2006/E-Zag)
-- [JavaScript CRUD App](https://abdallah-2006.github.io/JavaScript-CRUD/)
-- [Leon Template](https://abdallah-2006.github.io/Leon-Template/)
-- [Nile Store (E-commerce Frontend)](https://abdallah-2006.github.io/nile-store/)
-- [Test Web](https://abdallah-2006.github.io/test-web/)
+- [JavaScript CRUD App](https://github.com/Abdallah-2006//JavaScript-CRUD/)
+- [Leon Template](https://github.com/Abdallah-2006//Leon-Template/)
+- [Nile Store](https://github.com/Abdallah-2006//nile-store/)
+- [Test Web](https://github.com/Abdallah-2006//test-web/)
 - [React To-Do List](https://github.com/Abdallah-2006/React-to-do-list)
 - [React Calculator](https://github.com/Abdallah-2006/React-calculator)
 
