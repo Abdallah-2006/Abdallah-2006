@@ -1,4 +1,4 @@
-<div style="background-color:#0d1117; padding:20px; border-radius:10px;">
+<div style="background-color:#fd1117; padding:20px; border-radius:10px;">
   
   <h2 style="color:#58a6ff;">Hi, I'm Abdallah 👋</h2>
   <p style="color:#c9d1d9;">Welcome to my GitHub profile!</p>
