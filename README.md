@@ -56,7 +56,7 @@
 - [React Calculator](https://github.com/Abdallah-2006/React-calculator)
 
 
-## ⚙️ [Embedded Systems Projects](#embedded-systems-projects)
+## ⚙️ [Embedded Systems Projects](#-embedded-systems-projects)
 *(Coming soon…)*
 
 ## 🧠 Security & Networking Projects
