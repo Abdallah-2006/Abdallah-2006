@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abdallah-2006/Abdallah-2006/main/assets/images.jpg" alt="Banner" width="100%" style="border-radius: 15px;">
+</p>
+
+<h1 align="center">Welcome to My GitHub Profile 👋</h1>
+
+
 # 💫 About Me:
 🔭 I’m currently studying **Electronics and Communication Engineering** at **Zagazig University**  
 👯 I’m looking to collaborate on **embedded systems, IoT, and cybersecurity projects**  
