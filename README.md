@@ -1,15 +1,4 @@
-<div style="background: linear-gradient(135deg, #000000, #444444); padding: 30px; border-radius: 12px; color: white;">
-
-<h1 align="center">👋 Hi, I'm Abdallah</h1>
-<p align="center">Welcome to my GitHub profile!</p>
-
-sdfghjkl
-<p align="center">
-  <a href="https://github.com/Abdallah-2006">My Projects</a> |
-  <a href="https://www.linkedin.com/in/abdallah/">LinkedIn</a>
-</p>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:071E22&height=200&section=header&text=Abdallah%20Abdelmagid&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 # 💫 About Me:
 🔭 I’m currently studying **Electronics and Communication Engineering** at **Zagazig University**  
