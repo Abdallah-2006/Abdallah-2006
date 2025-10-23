@@ -42,7 +42,6 @@
 
 # 🚀 Projects
 
----
 
 ## 💻 Programming Projects
 - [JavaScript CRUD App](https://abdallah-2006.github.io/JavaScript-CRUD/)
@@ -54,21 +53,18 @@
 - [Nour Sayed Portfolio](https://nour-sayed-portfolio.vercel.app/)
 - [E-Zag](https://e-zag-iota.vercel.app/)
 
----
 
 ## ⚙️ Embedded Systems Projects
 *(Coming soon…)*
 
----
 
 ## 🧠 Security & Networking Projects
 *(Coming soon…)*
 
----
 
 ## 🎨 3D Projects
 - [My 3D Works on Pinterest](https://www.pinterest.com/abdallahabdalmageed35/_created/)
----
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdallah-2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
