@@ -45,7 +45,7 @@
 # 🚀 Projects
 
 
-## 💻 Programming Projects
+## 💻 [Programming Projects](#-programming-projects)
 - [Graphic Designer Portfolio](https://github.com/Abdallah-2006/Nour-Sayed-Portfolio)
 - [E-Zag](https://github.com/Abdallah-2006/E-Zag)
 - [JavaScript CRUD App](https://github.com/Abdallah-2006//JavaScript-CRUD/)
@@ -56,7 +56,7 @@
 - [React Calculator](https://github.com/Abdallah-2006/React-calculator)
 
 
-## ⚙️ Embedded Systems Projects
+## ⚙️ [Embedded Systems Projects](#embedded-systems-projects)
 *(Coming soon…)*
 
 ## 🧠 Security & Networking Projects
