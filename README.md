@@ -46,14 +46,14 @@
 
 
 ## 💻 Programming Projects
+- [Nour Sayed Portfolio](https://github.com/Abdallah-2006/Nour-Sayed-Portfolio)
+- [E-Zag](https://github.com/Abdallah-2006/E-Zag)
 - [JavaScript CRUD App](https://abdallah-2006.github.io/JavaScript-CRUD/)
 - [Leon Template](https://abdallah-2006.github.io/Leon-Template/)
 - [Nile Store (E-commerce Frontend)](https://abdallah-2006.github.io/nile-store/)
 - [Test Web](https://abdallah-2006.github.io/test-web/)
 - [React To-Do List](https://github.com/Abdallah-2006/React-to-do-list)
 - [React Calculator](https://github.com/Abdallah-2006/React-calculator)
-- [Nour Sayed Portfolio](https://nour-sayed-portfolio.vercel.app/)
-- [E-Zag](https://e-zag-iota.vercel.app/)
 
 
 ## ⚙️ Embedded Systems Projects
