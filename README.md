@@ -19,13 +19,13 @@
 
 # 💻 Tech Stack:
 
-### 🧠 Security & Networking
+### 🔒 Security & Networking
 ![CCNA](https://img.shields.io/badge/CCNA-%2300599C.svg?style=for-the-badge) ![Security+](https://img.shields.io/badge/Security+-%23E34F26.svg?style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge)
 
-### ⚙️ Embedded Systems
+### 🤖 Embedded Systems
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white) ![PCB Design](https://img.shields.io/badge/PCB_Design-%23007396.svg?style=for-the-badge) ![Circuits](https://img.shields.io/badge/Circuits-BE6E46?style=for-the-badge)
 
-### 💻 Web Development
+### 📱 Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -36,7 +36,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🎨 Other Skills
+### 🧊 Other Skills
 ![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
@@ -45,7 +45,7 @@
 # 🚀 Projects
 
 
-## Programming Projects
+## 📱 Programming Projects
 - [Graphic Designer Portfolio](https://github.com/Abdallah-2006/Nour-Sayed-Portfolio)
 - [E-Zag](https://github.com/Abdallah-2006/E-Zag)
 - [JavaScript CRUD App](https://github.com/Abdallah-2006//JavaScript-CRUD/)
@@ -56,14 +56,14 @@
 - [React Calculator](https://github.com/Abdallah-2006/React-calculator)
 
 
-## Embedded Systems Projects
+## 🤖 Embedded Systems Projects
 *(Coming soon…)*
 
-## Security & Networking Projects
+## 🔒 Security and Networking Projects
 *(Coming soon…)*
 
 
-## 3D Projects
+## 🧊 3D Projects
 - [My 3D Works on Pinterest](https://www.pinterest.com/abdallahabdalmageed35/_created/)
 
 
