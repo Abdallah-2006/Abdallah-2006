@@ -40,15 +40,6 @@
 
 ---
 
-# 🏆 Achievements:
-- Developed **5+ web and software projects** through self-learning with **95% task completion efficiency**  
-- Designed and implemented **6+ embedded systems** integrating multiple sensors and communication modules with **98% reliability**  
-- Conducted **penetration testing and network defense** experiments using **Kali Linux** and **VMware**, achieving **80% exploit success rate**  
-- Built and tested **custom circuits** for wireless communication with **95% accuracy and 100% stability**  
-- Collaborated on **hardware–software integrated systems**, improving efficiency by **40%**
-
----
-
 # 🚀 Projects:
 - [JavaScript CRUD App](https://abdallah-2006.github.io/JavaScript-CRUD/)  
 - [Nile Store (E-commerce Frontend)](https://abdallah-2006.github.io/nile-store/)
