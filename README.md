@@ -59,10 +59,6 @@
 ## 🤖 Embedded Systems Projects
 *(Coming soon…)*
 
-## 🔒 Security and Networking Projects
-*(Coming soon…)*
-
-
 ## 🧊 3D Projects
 - [My 3D Works on Pinterest](https://www.pinterest.com/abdallahabdalmageed35/_created/)
 
