@@ -57,11 +57,10 @@
 
 
 ## ⚙️ Embedded Systems Projects
-- [My 3D Works on Pinterest](https://www.pinterest.com/abdallahabdalmageed35/_created/)
-
+*(Coming soon…)*
 
 ## 🧠 Security & Networking Projects
-- *(Coming soon…)*
+*(Coming soon…)*
 
 
 ## 🎨 3D Projects
