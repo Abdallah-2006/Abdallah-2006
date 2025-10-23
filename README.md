@@ -1,9 +1,15 @@
+<div style="background: linear-gradient(135deg, #000000, #444444); padding: 30px; border-radius: 12px; color: white;">
+
+<h1 align="center">👋 Hi, I'm Abdallah</h1>
+<p align="center">Welcome to my GitHub profile!</p>
+
+sdfghjkl
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abdallah-2006/Abdallah-2006/main/assets/images.jpg" alt="Banner" width="100%" style="border-radius: 15px;">
+  <a href="https://github.com/Abdallah-2006">My Projects</a> |
+  <a href="https://www.linkedin.com/in/abdallah/">LinkedIn</a>
 </p>
 
-<h1 align="center">Welcome to My GitHub Profile 👋</h1>
-
+</div>
 
 # 💫 About Me:
 🔭 I’m currently studying **Electronics and Communication Engineering** at **Zagazig University**  
