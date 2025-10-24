@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:071E22&height=200&section=header&text=Abdallah%20Abdelmagid&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:134E5E,100:071E22&height=200&section=header&text=Abdalla%20Abdelmagid&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%" />
 
 # 💫 About Me:
 🔭 I’m currently studying **Electronics and Communication Engineering** at **Zagazig University**  
