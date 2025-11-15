@@ -11,6 +11,7 @@
 ---
 
 ## 🌐 Socials:
+[![WebSite](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=WebSite&logoColor=white)](https://abdalla-a-portfolio.vercel.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdalla-abdelmagid-85b4ba279/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Abdallah-2006)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdalla.eng.dev@gmail.com)
